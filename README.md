@@ -2,12 +2,31 @@
 
 ## 📊 Dataset Description
 
-- This project uses a dataset containing customer demographic, behavioral, environmental, commuting, and EV-related information.
-- Key variables include **age, annual income, daily commute distance, city type, environmental concern, range anxiety, charging availability, subsidies, and EV purchase intention**.
+# EV Adoption Behavior and Customer Preferences
+
+This project uses a dataset focused on **electric vehicle (EV) adoption behavior and customer preferences**. The dataset contains a combination of numerical and categorical variables related to customers' demographic characteristics, income, daily commuting distance, environmental concerns, charging availability, range anxiety, and EV purchase intention.
+
+## Key Variables Explored
+
+- Age
+- Annual income
+- Daily commute distance
+- City type
+- Current car type
+- Number of cars owned
+- Environmental concern level
+- Range anxiety level
+- Charging stations near home
+- Charging stations near work
+- Home charging availability
+- Subsidy availability
+- EV purchase intention (`will_buy_ev`)
+
+The dataset provides a useful basis for understanding factors associated with **EV adoption and customer willingness to purchase an EV**.
 
 ## 🎯 Project Overview
 
-- An exploratory data analysis project investigating the factors associated with **EV purchase intention and range anxiety** using Python.
+- An exploratory data analysis project investigating the factors associated with **EV purchase intention** using Python.
 
 ## 🔍 Objectives
 
@@ -39,9 +58,9 @@
 - **Charging availability** showed an association with EV purchase intention and was explored as a potential contributing factor.
 - **Range anxiety** was examined as an important factor associated with EV adoption.
 - **Subsidy availability and environmental concern** were also associated with EV purchase intention.
-- **Commuting distance and charging infrastructure** provided additional context for understanding range anxiety.
+- **Commuting distance and analyzing different city types** provided additional context for understanding factors influencing EV Adoption..
 
 ## ✅ Conclusion
 
-- The analysis shows that EV adoption is influenced by a combination of **customer characteristics, range anxiety, charging infrastructure, environmental concerns, financial incentives, and commuting behavior**.
+- The analysis shows that EV adoption is influenced by a combination of **customer characteristics, range anxiety, charging infrastructure, environmental concerns, financial incentives,commuting distance and city type**.
 - The findings can help EV manufacturers, charging providers, and policymakers understand potential barriers and opportunities for wider EV adoption.
