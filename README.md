@@ -1,8 +1,6 @@
-# 🚗 EV Adoption Behavior & Range Anxiety Analysis
+# 🚗 EV Adoption Rate Based On Customer Preferences
 
 ## 📊 Dataset Description
-
-# EV Adoption Behavior and Customer Preferences
 
 This project uses a dataset focused on **electric vehicle (EV) adoption behavior and customer preferences**. The dataset contains a combination of numerical and categorical variables related to customers' demographic characteristics, income, daily commuting distance, environmental concerns, charging availability, range anxiety, and EV purchase intention.
 
